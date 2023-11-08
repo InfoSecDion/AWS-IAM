@@ -1,4 +1,4 @@
-# AWS-IAM
+# AWS-IAM Automated User Migration
 
 ![image](https://github.com/InfoSecDion/AWS-IAM/assets/105241007/f34087b4-2aa6-4a57-809c-09821567df75)
 
